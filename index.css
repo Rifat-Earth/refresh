@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    font-size: small;
+     margin-top: 40px; 
+     padding: 5px; 
+}
+.font{
+    font-size: 24px;
+     padding: 10px;
+    margin-bottom: 40px;
+}
+.font-content{
+    margin: 10px;
+    padding: 10px;
+}
+.head{
+   margin: auto; 
+   border: 0px solid gray;
+   width: 70%;
+   height: 180px;
+   padding: 40px;
+   justify-content: center;
+   text-align: center;
+   color: white;
+   font-weight: bolder;
+   background-image: linear-gradient(rgb(25, 19, 19),-20%);
+   background-image: url(Banner\ Image.png);
+   background-repeat: no-repeat;
+   background-size:550px; 
+}
+.h{
+    margin: 20px;
+}
+/* second part */
+.second{
+    margin: auto;
+    width: 50%;
+    border: 0px solid blueviolet;
+    height: 300px;
+    text-align: center;
+}
+.photo{
+    width: 350px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.offer{
+    color: rgb(228, 4, 4);
+    font-size:34px;
+    margin-top: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.holi{
+    font-size: 10px;
+    color: rgb(227, 39, 39);
+}
+.off{
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 5px;
+}
+/* third portion */
+.third{
+    margin: auto;
+    border: 0px solid gray;
+    width: 70%;
+    height: 180px;
+    display: flex;
+    margin-top: 70px;
+    background-image: url(Vectorrr.png);
+    background-image:linear-gradient(black black);
+    opacity: 100%;
+    background-size:450px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.third-image{
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 15px;
+    
+}
+.party{
+    font-size: 27px;
+    font-weight: bolder;
+    color:white;
+    margin:30px 60px 10px;
+}
+.pera{
+    font-size: 8px;
+    margin-left:60px;
+    color: white;
+} 
+.btn{
+    margin-left: 60px;
+    margin-top: 10px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 12px;
+    background-color: black;
+    color: white;
+    border: none;
+}
