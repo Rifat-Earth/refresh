@@ -113,3 +113,43 @@
     color: white;
     border: none;
 }
+/* fourth portion */
+.fourth{
+    /* border: 1px solid gray; */
+    margin: auto;
+    width: 70%;
+    margin-top: 30px;
+    height: 200px;
+    background-color: rgb(251, 230, 203);
+    /* gap: 10px; */
+    background-image: linear-gradient( top pink);
+}
+.inline{
+   font-weight: bold; 
+   font-size: small;
+   text-align: center;
+   padding: 20px;
+   margin: 20px;
+}
+.p1{
+    padding: 10px;
+}
+.p3{
+    padding: 10px;
+}
+.b{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+.bu{
+    text-align:center;
+    color: white;
+    background-color: red;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+.span{
+    color: red;
+}
