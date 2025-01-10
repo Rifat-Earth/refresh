@@ -20,11 +20,11 @@
     padding: 10px;
 }
 .head{
-   margin: auto; 
+    margin: auto; 
    border: 0px solid gray;
    width: 70%;
    height: 180px;
-   padding: 40px;
+   padding: 40px; 
    justify-content: center;
    text-align: center;
    color: white;
@@ -68,20 +68,22 @@
     padding: 5px;
 }
 /* third portion */
-.third{
+.all-div{
     margin: auto;
     border: 0px solid gray;
     width: 70%;
     height: 200px;
-    display: flex;
-    margin-top: 70px;
-    align-items: right;
+    margin-top: 50px;
+    align-items:center ;
+}
+.third{
     background-image: url(Vectorrr.png);
     background-image:linear-gradient(black black);
     /* opacity: 100%; */
     background-size:550px;
     background-repeat: no-repeat;
     background-position: left;
+    display: flex; 
 }
 .third-content{
     align-items: center;
@@ -117,10 +119,10 @@
 /* fourth portion */
 .fourth{
     /* border: 1px solid gray; */
-    margin: auto;
-    width: 70%;
+    /* margin: auto; */
+    /* width: 70%; */
     margin-top: 30px;
-    height: 200px;
+    /* height: 200px; */
     background-color: rgb(251, 230, 203);
     /* gap: 10px; */
     background-image: linear-gradient( top pink);
@@ -153,4 +155,14 @@
 }
 .span{
     color: red;
+}
+/* fifth */
+.flex{
+    align-items: center;
+    display: flex;
+    margin-top: 20px;
+}
+.resize{
+    height: 100px;
+    padding: 10px;
 }
