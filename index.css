@@ -75,7 +75,7 @@
     height: 200px;
     display: flex;
     margin-top: 70px;
-    align-items: center;
+    align-items: right;
     background-image: url(Vectorrr.png);
     background-image:linear-gradient(black black);
     /* opacity: 100%; */
