@@ -82,6 +82,9 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+.third-content{
+    align-items: center;
+}
 .third-image{
     height: 150px;
     margin-top: 30px;
