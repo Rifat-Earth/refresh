@@ -72,24 +72,25 @@
     margin: auto;
     border: 0px solid gray;
     width: 70%;
-    height: 180px;
+    height: 200px;
     display: flex;
     margin-top: 70px;
     background-image: url(Vectorrr.png);
     background-image:linear-gradient(black black);
-    opacity: 100%;
-    background-size:450px;
+    /* opacity: 100%; */
+    background-size:550px;
     background-repeat: no-repeat;
     background-position: center;
 }
 .third-content{
     align-items: center;
+    display: table-column;
+    background-position-y: center;
 }
 .third-image{
-    height: 150px;
-    margin-top: 30px;
-    margin-left: 15px;
-    
+    height: 180px;
+    margin-top: 20px;
+    margin-left: 25px;  
 }
 .party{
     font-size: 27px;
